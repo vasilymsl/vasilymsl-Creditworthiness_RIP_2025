@@ -6,6 +6,6 @@
 
 ## Ссылки:
 
-- Бэкенд (основной веб-сервис): https://github.com/vasilymsl/lab8-golang
-- Бэкенд (асинхронный сервис): https://github.com/vasilymsl/lab8-django
-- Фронтенд: https://github.com/vasilymsl/lab8-react
+- Бэкенд (основной веб-сервис): https://github.com/vasilymsl/lab8-golang_Creditworthiness
+- Бэкенд (асинхронный сервис): https://github.com/vasilymsl/lab8-django_Creditworthiness
+- Фронтенд: https://github.com/vasilymsl/lab8-react_Creditworthiness
